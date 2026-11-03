@@ -1,0 +1,356 @@
+[
+  {
+    "id": "rabbit_s1",
+    "file": "rabbit_s1.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 876044,
+    "alpha_bbox": [
+      119,
+      23,
+      1127,
+      1208
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      209,
+      58,
+      1083,
+      1205
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "cat_collected",
+    "file": "cat_collected.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 787841,
+    "alpha_bbox": [
+      55,
+      57,
+      1180,
+      1220
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      153,
+      69,
+      1127,
+      1202
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "rabbit_s0",
+    "file": "rabbit_s0.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 889793,
+    "alpha_bbox": [
+      23,
+      23,
+      1206,
+      1234
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      218,
+      28,
+      1050,
+      1226
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "tiger_s1",
+    "file": "tiger_s1.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 789878,
+    "alpha_bbox": [
+      59,
+      20,
+      1150,
+      1172
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      129,
+      93,
+      1145,
+      1166
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "tiger_s2",
+    "file": "tiger_s2.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 800192,
+    "alpha_bbox": [
+      0,
+      20,
+      1166,
+      1210
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      145,
+      102,
+      1152,
+      1167
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "tiger_s0",
+    "file": "tiger_s0.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 719284,
+    "alpha_bbox": [
+      109,
+      23,
+      1194,
+      1214
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      112,
+      92,
+      1155,
+      1179
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "elephant_s0",
+    "file": "elephant_s0.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 717116,
+    "alpha_bbox": [
+      27,
+      35,
+      1228,
+      1188
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      31,
+      152,
+      1224,
+      1136
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "elephant_s1",
+    "file": "elephant_s1.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 801647,
+    "alpha_bbox": [
+      0,
+      25,
+      1207,
+      1254
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      65,
+      174,
+      1204,
+      1115
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ui_pause",
+    "file": "ui_pause.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 923312,
+    "alpha_bbox": [
+      167,
+      37,
+      1085,
+      1228
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      171,
+      174,
+      1079,
+      1079
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ui_hint",
+    "file": "ui_hint.png",
+    "width": 2172,
+    "height": 724,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 655974,
+    "alpha_bbox": [
+      0,
+      0,
+      2140,
+      724
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      49,
+      113,
+      2123,
+      625
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "ui_panel_cream",
+    "file": "ui_panel_cream.png",
+    "width": 2172,
+    "height": 724,
+    "mode": "RGBA",
+    "alpha_zero_pixels": 763051,
+    "alpha_bbox": [
+      0,
+      32,
+      2138,
+      716
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "visible_bbox_alpha128": [
+      107,
+      149,
+      2065,
+      575
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  },
+  {
+    "id": "background_clean",
+    "file": "background_clean.png",
+    "width": 941,
+    "height": 1671,
+    "mode": "RGB",
+    "alpha_zero_pixels": 0,
+    "alpha_bbox": [
+      0,
+      0,
+      941,
+      1671
+    ],
+    "status": "generated-edit",
+    "anchor_recommendation": [
+      0.5,
+      0.5
+    ],
+    "source_rect": null,
+    "crop_offset": [
+      0,
+      0
+    ]
+  }
+]
